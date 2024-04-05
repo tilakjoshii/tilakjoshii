@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tilak Joshi</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-- 🔭 My Final Year Project [Room Finder(Griha)](https://griha.onrender.com/)
+<p align="center">- 🔭 My Final Year Project [Room Finder(Griha)](https://griha.onrender.com/)</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
