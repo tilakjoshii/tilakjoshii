@@ -18,7 +18,7 @@ I'm **Tilak Joshi**, a passionate Full-Stack Developer from **Kanchanpur, Nepal*
 - 🌱 Currently deepening skills in **DevOps, Docker, CI/CD, and Cloud**
 - 💼 Experienced with **SAP Business One (SAP B1)** for enterprise solutions
 - 📍 Based in **Bhimdatta-18, Kanchanpur, Nepal**
-- 📬 Reach me at: **[tilakjoshii@email](mailto:tilakjoshii@email)**
+- 📬 Reach me at: **[me@tilakjoshi.com.np](mailto:me@tilakjoshi.com.np)**
 - 📞 **+977 9863172583**
 
 ---
