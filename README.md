@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tilak%20Joshi&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Nepal&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tilak%20Joshi&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Nepal&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Tilak Joshi**, a passionate Full-Stack Developer from **Kanchanpur, Nepal** 🇳🇵. I graduated with a **BSc CSIT** degree from Siddhanath Science Campus, Tribhuvan University, and I love crafting robust, user-centric web applications.
+I'm **Tilak Joshi**, a passionate Full-Stack Engineer from **Kanchanpur, Nepal** 🇳🇵. I graduated with a **BSc CSIT** degree from Siddhanath Science Campus, Tribhuvan University, and I love crafting robust, user-centric web applications.
 
 - 🔭 **Final Year Project:** [Griha – Room Finder](https://griha.onrender.com) *(MERN Stack)*
 - 🌱 Currently deepening skills in **DevOps, Docker, CI/CD, and Cloud**
@@ -42,6 +42,7 @@ I'm **Tilak Joshi**, a passionate Full-Stack Developer from **Kanchanpur, Nepal*
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSql](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
