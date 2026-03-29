@@ -80,10 +80,6 @@ I'm **Tilak Joshi**, a passionate Full-Stack Engineer from **Kanchanpur, Nepal**
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tilakjoshii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilakjoshii&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=tilakjoshii&theme=tokyonight&hide_border=true" height="165"/>
